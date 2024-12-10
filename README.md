@@ -6,7 +6,10 @@
 
 ## Connect with me:
 
-[![LinkedIn](www.linkedin.com/in/ashwinihv](https://www.linkedin.com/in/ashwinihv/)
+## Connect with me:
+
+[![LinkedIn](https://your-image-url.com/linkedin-logo.png)](https://www.linkedin.com/in/ashwinihv/)
+
 
 ## Languages and Tools:
 
