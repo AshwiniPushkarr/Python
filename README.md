@@ -1,4 +1,4 @@
-                                ## Data Scientists
+## Data Scientists
 
 🌱 I’m currently learning Power BI, Python, SQL, Excel, Machine Learning
 
